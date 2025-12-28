@@ -1,0 +1,3 @@
+C:\Users\darta\OneDrive\main\x64\Debug\main.exe
+C:\Users\darta\OneDrive\Desktop\ConsoleProject\main\x64\Debug\main.exe
+C:\Users\darta\OneDrive\Desktop\Project_For_Git\#1_ConsoleProjectC867_C++\main\x64\Debug\main.exe

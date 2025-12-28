@@ -1,0 +1,8 @@
+﻿  main.cpp
+  roster.cpp
+  student.cpp
+  Generating Code...
+C:\Users\darta\OneDrive\Desktop\Project_For_Git\#1_ConsoleProjectC867_C++\main\degree.h(38): warning C4715: 'ConvertToString': not all control paths return a value
+C:\Users\darta\OneDrive\Desktop\Project_For_Git\#1_ConsoleProjectC867_C++\main\degree.h(22): warning C4715: 'ConvertToDegree': not all control paths return a value
+  LINK : C:\Users\darta\OneDrive\Desktop\Project_For_Git\#1_ConsoleProjectC867_C++\main\x64\Debug\main.exe not found or not built by the last incremental link; performing full link
+  main.vcxproj -> C:\Users\darta\OneDrive\Desktop\Project_For_Git\#1_ConsoleProjectC867_C++\main\x64\Debug\main.exe
